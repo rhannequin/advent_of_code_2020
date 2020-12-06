@@ -5,6 +5,7 @@ require "advent_of_code_2020/day1"
 require "advent_of_code_2020/day2"
 require "advent_of_code_2020/day4"
 require "advent_of_code_2020/day5"
+require "advent_of_code_2020/day6"
 
 module AdventOfCode2020
   class Error < StandardError; end
